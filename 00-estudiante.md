@@ -1,6 +1,6 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**Friedl Ana Belen
+- **Apellido y nombre:** Friedl Ana Belen
 - **Tecnicatura:** Higiene y Seguridad
 - **Cohorte / turno:** 2026 / INT
 - **Fecha:** 07/11/2026
